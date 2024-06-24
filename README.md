@@ -2,7 +2,8 @@
 
 ## What's new:
 1. Adapted to Mid360 LiDAR
-2. Corrected the incorrect verification of virtual GPRMC instruction in STM32
+2. Corrected the incorrect verification of virtual GPRMC instruction in STM32，
+   See：https://github.com/WilsonGuo/FastLivo_Replication/tree/main/hardware
 
 See the wiki for more updates：https://github.com/WilsonGuo/FastLivo_Replication/wiki
 
