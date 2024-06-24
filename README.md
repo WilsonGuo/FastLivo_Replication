@@ -1,9 +1,10 @@
 # This paper reproduces the SLAM research results from Mars lab of the University of Hong Kong -Fast Livo
 
-52/5000
 ##What's new:
 1. Adapted to Mid360 LiDAR
 2. Corrected the incorrect verification of virtual GPRMC instruction in STM32
+
+See the wiki for more updates
 
 
 # FAST-LIVO
