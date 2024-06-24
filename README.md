@@ -1,4 +1,4 @@
-This paper reproduces the SLAM research results from Mars lab of the University of Hong Kong -Fast Livo
+# This paper reproduces the SLAM research results from Mars lab of the University of Hong Kong -Fast Livo
 
 # FAST-LIVO
 
@@ -7,8 +7,6 @@ This paper reproduces the SLAM research results from Mars lab of the University 
 ## 1. Introduction
 
 **FAST-LIVO** is a fast LiDAR-Inertial-Visual odometry system, which builds on two tightly-coupled and direct odometry subsystems: a VIO subsystem and a LIO subsystem. The LIO subsystem registers raw points (instead of feature points on e.g., edges or planes) of a new scan to an incrementally-built point cloud map. The map points are additionally attached with image patches, which are then used in the VIO subsystem to align a new image by minimizing the direct photometric errors without extracting any visual features (e.g., ORB or FAST corner features).
-
-**Contributors**: [Chunran Zheng 郑纯然](https://github.com/xuankuzcr)， [Qingyan Zhu 朱清岩](https://github.com/ZQYKAWAYI)， [Wei Xu 徐威](https://github.com/XW-HKU)
 
 <div align="center">
     <img src="img/Framework.svg" width = 100% >
