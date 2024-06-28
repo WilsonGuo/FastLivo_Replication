@@ -3,7 +3,7 @@
 [Video Tutorial](https://www.bilibili.com/video/BV1T142197ci/?share_source=copy_web&vd_source=dd0669827093367276172cd819a1ae99)
 
 ## What's new:
-1. Adapted to Mid360 LiDAR
+1. Adapted to  [Mid360 LiDAR](https://github.com/WilsonGuo/livox_ros_driver2)
 2. Corrected the incorrect verification of virtual GPRMC instruction in STM32，
    See：[HardWare](https://github.com/WilsonGuo/FastLivo_Replication/tree/main/hardware)
  
@@ -13,6 +13,12 @@ See the wiki for more updates：https://github.com/WilsonGuo/FastLivo_Replicatio
 
 <div align="center">
     <img src="img/Demo1.png" width = 100% >
+</div>
+
+# Principle of hardware synchronization：
+
+<div align="center">
+    <img src="img/time_sysnc.png" width = 100% >
 </div>
 
 # FAST-LIVO
