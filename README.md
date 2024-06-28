@@ -6,7 +6,9 @@
    See：https://github.com/WilsonGuo/FastLivo_Replication/tree/main/hardware
 
 See the wiki for more updates：https://github.com/WilsonGuo/FastLivo_Replication/wiki
-
+<div align="center">
+    <img src="img/Demo1.png" width = 100% >
+</div>
 
 # FAST-LIVO
 
