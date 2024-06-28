@@ -1,11 +1,16 @@
 # This paper reproduces the SLAM research results from Mars lab of the University of Hong Kong -Fast Livo
 
+[Video Tutorial](https://www.bilibili.com/video/BV1T142197ci/?share_source=copy_web&vd_source=dd0669827093367276172cd819a1ae99)
+
 ## What's new:
 1. Adapted to Mid360 LiDAR
 2. Corrected the incorrect verification of virtual GPRMC instruction in STM32，
-   See：https://github.com/WilsonGuo/FastLivo_Replication/tree/main/hardware
+   See：[HardWare](https://github.com/WilsonGuo/FastLivo_Replication/tree/main/hardware)
+ 
+   
 
 See the wiki for more updates：https://github.com/WilsonGuo/FastLivo_Replication/wiki
+
 <div align="center">
     <img src="img/Demo1.png" width = 100% >
 </div>
