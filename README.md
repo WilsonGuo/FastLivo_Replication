@@ -21,6 +21,8 @@ See the wiki for more updates：https://github.com/WilsonGuo/FastLivo_Replicatio
     <img src="img/time_sysnc.png" width = 100% >
 </div>
 
+For any technical issues, please contact me via email:happy.munan@163.com
+
 # FAST-LIVO
 
 ## Fast and Tightly-coupled Sparse-Direct LiDAR-Inertial-Visual Odometry
